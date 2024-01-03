@@ -16,7 +16,7 @@ def descargar_video(url, nombre_archivo):
         print("Error al descargar el video")
 
 # URL del stream de video
-url_stream = "https://media.codew.io/FromGoogleDrive/streams/934985876046602330532523.mp4"
+url_stream = "URL_DEL_ARCHIVO"
 
 # Nombre del archivo donde se guardará el video
 nombre_archivo = "video_descargado.mp4"
