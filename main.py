@@ -32,8 +32,8 @@ def descargar_video(url, nombre_archivo, cookies):
             print(f"Error al descargar el video: {respuesta.status_code}")
 
 # URL del stream de video
-url_stream = "https://media.codew.io/FromGoogleDrive/streams/214964039325993220267591.mp4"
-# https://media.codew.io/FromGoogleDrive/play.html?id=streams/214964039325993220267591.mp4&playOrder=vod
+url_stream = "URL_ARCHIVO"
+
 
 # Nombre del archivo donde se guardará el video
 nombre_archivo = f"video_descargado_{datetime.now()}.mp4"
